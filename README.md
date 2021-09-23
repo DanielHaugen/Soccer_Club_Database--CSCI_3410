@@ -1,6 +1,3 @@
-# Soccer_Club_Database--CSCI_3410
-
-
 <div align="center">
   <br>
   <h1><strong>Soccer Club Database</strong></h1>
